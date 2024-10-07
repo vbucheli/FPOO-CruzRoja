@@ -1,4 +1,23 @@
 
+
+/*
+    Proyecto: BloodDatabase (Adaptado)
+    Curso: Fundamentos de Programación Orientada a Objetos (FPOO)
+    Universidad del Valle
+
+    Descripción:
+    Este proyecto gestiona una base de datos de donantes de sangre, proporcionando 
+    funcionalidades para registrar, buscar y analizar la información de los donantes.
+
+    El código se basó en el proyecto BloodDatabase, fue traducido al español 
+    y adaptado a las necesidades del curso.
+
+    
+
+    Autor: Victor Bucheli
+    Correo: victor.bucheli@correounivalle.edu.co
+    Fecha: Octubre 2024
+*/
 #include "BloodDatabase.h"
 #include <iostream>
 #include <fstream>

@@ -1,3 +1,21 @@
+/*
+    Proyecto: BloodDatabase (Adaptado)
+    Curso: Fundamentos de Programación Orientada a Objetos (FPOO)
+    Universidad del Valle
+
+    Este es un proyecto del curso FPOO de la Universidad del Valle, 
+    desarrollado con fines académicos. Puede ser utilizado con fines 
+    académicos dando los créditos de la autoría.
+
+    El código se basó en el proyecto BloodDatabase, fue traducido al español 
+    y adaptado a las necesidades del curso.
+
+    Autor: Victor Bucheli
+    Correo: victor.bucheli@correounivalle.edu.co
+    Fecha: Octubre 2024
+*/
+
+
 
 #include "BloodDatabase.h"
 #include "Donor.h"
